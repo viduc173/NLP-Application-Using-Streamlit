@@ -1,0 +1,7 @@
+streamlit>=1.32
+langdetect>=1.0.9
+deep-translator>=1.11.4
+pyspellchecker>=0.8.1
+nltk>=3.8
+langcodes>=3.4
+language_data>=1.1
